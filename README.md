@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm David
 
-<!--
-**davidsnyder-ctrl/davidsnyder-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student developer who builds practical software using AI tools like Claude and Claude Code. I like turning repetitive problems into working apps: dashboards, automations, and integrations.
 
-Here are some ideas to get you started:
+**Recent build:** an online-arbitrage deal-sourcing app - a React dashboard, an Express and SQLite API, and an n8n alert workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with:** Lua for Roblox, AI-assisted development with Claude Code, Node.js, Git, and n8n.
+
+**Currently:** a concurrent-enrollment honors student, with an Associate degree expected in 2027.
+
+**Reach me:** david.elson.snyder@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/david-s-b73711416
