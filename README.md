@@ -1,8 +1,6 @@
 ## Hi, I'm David
 
-I'm a student developer who builds practical software using AI tools like Claude and Claude Code. I like turning repetitive problems into working apps: dashboards, automations, and integrations.
-
-**Recent build:** an online-arbitrage deal-sourcing app - a React dashboard, an Express and SQLite API, and an n8n alert workflow.
+I'm a student developer who builds practical software. I like turning repetitive problems into working apps: dashboards, automations, and integrations.
 
 **Working with:** Lua for Roblox, AI-assisted development with Claude Code, Node.js, Git, and n8n.
 
